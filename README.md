@@ -2,10 +2,6 @@
 
 The developed system retains the structure of a common deployment scenario which includes backend and frontend systems. The user interacts with the front-end interface like website, which communicates with an REST API. The client has the ability to interact directly with the REST API.
 
-<p align="center">
-  <img width="819" src="https://user-images.githubusercontent.com/26774196/152198344-756d6cc5-97dc-4625-b328-e7682b88f7b0.png">
-</p>
-
 ## Scope
 
 
