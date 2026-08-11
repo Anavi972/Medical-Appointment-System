@@ -26,18 +26,6 @@ Routes are REST API endpoints the users can visit. Each route is configured in c
   <img height="300" src="https://user-images.githubusercontent.com/26774196/152198443-b1be9908-1aca-46f1-89e9-99771d3c7869.png">
 </p>
 
-## Deployment
-
-The frontend is setup with Firebase which hosts the contents of the /build/ folder after running npm run build in the terminal. During initial setup, the deployment to Firebase specified details like if it is a single- page application, and what folder to host. Every update to the website now simply requires one command when inside the main project directory. The deployment to the backend requires the project to be pushed into a git Heroku repository. The backend has API routes which can be used for frontend use cases. However, I have added a .html landing page for the root backend, in addition to the /info route. Please refer to the source code section to see the code behind these responses.
-
-
-<p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/26774196/152202496-fd3f2436-53b6-466e-9a31-c79f1c680168.png">
-
-  <img width="800" src="https://user-images.githubusercontent.com/26774196/152202558-fc2bb40e-efd0-45d0-b43f-e10952a95a57.png">
-  
-  <img width="800" src="https://user-images.githubusercontent.com/26774196/152202547-7152b0d0-b3ec-4f2b-b4b1-ac08969a3063.png">
-</p>
 
 
 
